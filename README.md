@@ -3,6 +3,9 @@ Repository for SD Hacks Hackathon Project
 
 Official DevPost Link: https://devpost.com/software/ucsd-real-time-lecture-transcriber
 
+## Team Members
+Jelan Waly, Akari Tajima, Irene Lue, Kim Tien Vu
+
 ## Real-Time Lecture Transcriber
 This program transcribes lectures in real-time, maximizing the learning experience for all students.
 
